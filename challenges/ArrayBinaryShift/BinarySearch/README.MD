@@ -41,5 +41,7 @@ Write a method called BinarySearch which takes in 2 parameters: a sorted array a
 
 ---
 
+### RESOURCES
+I used amanda's code base and reviewed what it did while I wrote my whiteboard. The code included is her's she mentioned we could use it for this code challenge. 
 ### Change Log
 ***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***  

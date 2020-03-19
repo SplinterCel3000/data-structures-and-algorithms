@@ -11,3 +11,5 @@
 ---
 ![Array Shift](https://github.com/SplinterCel3000/data-structures-and-algorithms/tree/master/challenges/ArraryShift)
 ---
+![Binary Shift](https://github.com/SplinterCel3000/data-structures-and-algorithms/tree/master/challenges/ArrayBinaryShift/BinarySearch)
+---

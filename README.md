@@ -15,6 +15,6 @@
 ---
 ![Binary Shift](https://github.com/SplinterCel3000/data-structures-and-algorithms/tree/master/challenges/ArrayBinaryShift/BinarySearch)
 ---
-![Linked List]{https://github.com/SplinterCel3000/data-structures-and-algorithms/tree/master/data-structures/linked-list/Linked%20List)
+![Linked List](https://github.com/SplinterCel3000/data-structures-and-algorithms/tree/master/data-structures/linked-list/Linked%20List)
 ---
 

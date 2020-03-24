@@ -24,7 +24,7 @@
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](https://photos.google.com/share/AF1QipNK4wTmm6JteZVFk-La-adY0KozRTG9v2rFJN11jgKdkoL79Ou7ZyN9clOcHV_i0w?key=Z3dhQV9PN2h1b2puQjBnaEJGNjM3LWtwX1hZSUV3)
+![Image 1](https://cdn.discordapp.com/attachments/583516117201584128/692105381744476210/20200324_131455.jpg)
 
 
 ---

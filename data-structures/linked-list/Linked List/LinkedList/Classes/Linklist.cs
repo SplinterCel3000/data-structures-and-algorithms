@@ -25,21 +25,21 @@ namespace LinkedList.Classes
             node.Next = Head;
 
             //set that(new node) as the head
-            Head = node;           
+            Head = node;
         }
 
-       // includes method
-       /// <summary>
-       /// This will make sure that it includes a value at all if not it moves on. 
-       /// </summary>
-       /// <param name="value"></param>
-       /// <returns></returns>
-       public bool Includes(int value)
+        // includes method
+        /// <summary>
+        /// This will make sure that it includes a value at all if not it moves on. 
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public bool Includes(int value)
         {
             // set c = h
             Current = Head;
 
-            while(Current != null)
+            while (Current != null)
             {
                 // check if value is equal
                 if (Current.Value == value)
@@ -49,12 +49,12 @@ namespace LinkedList.Classes
 
                 // go to next node
                 Current = Current.Next;
-                
+
             }
 
-            return false ;
+            return false;
         }
-        
+
         /// <summary>
         /// This will append the current value to the head. 
         /// </summary>
@@ -72,6 +72,11 @@ namespace LinkedList.Classes
             // we are at null at this point
             sb.Append("NULL");
             return sb.ToString();
+        }
+
+        public void append()
+        {
+
         }
 
 

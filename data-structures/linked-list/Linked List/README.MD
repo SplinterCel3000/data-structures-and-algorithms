@@ -111,3 +111,44 @@ Be sure to follow your language/frameworks standard naming conventions (e.g. C# 
 
 ## Approach & Efficiency
 We made this in class together and all worked on it as a group. It took roughly an hour and a half to complete. 
+
+
+
+---
+
+
+## Code Challenge: Class 08
+*Author: Brandon Johnson*
+
+---
+
+### Problem Domain
+***[Problem Domain for the Code Challenge]***
+Write a function called mergeLists which takes two linked lists as arguments. Zip the two linked lists together into one so that the nodes alternate between the two lists and return a reference to the head of the zipped list.
+
+
+---
+
+### Inputs and Expected Outputs
+
+| Input | Expected Output |
+| :----------- | :----------- |
+| head -> [1] -> [3] -> [2] -> X , head -> [5] -> [9] -> [4] -> X | head -> [1] -> [5] -> [3] -> [9] -> [2] -> [4] -> X |
+
+
+
+---
+
+### Whiteboard Visual
+***[Your Whiteboard Image]***
+![Image 1](https://cdn.discordapp.com/attachments/583516117201584128/692819743886934086/20200326_123808.jpg)
+
+
+---
+
+### Change Log
+***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***  
+
+
+
+---

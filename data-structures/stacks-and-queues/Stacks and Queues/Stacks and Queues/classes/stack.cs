@@ -42,7 +42,7 @@ namespace Stacks_and_Queues.classes
             return Top == null; 
         }
 
-        public int peek(int value)
+        public int peek()
         {
             try
             {
@@ -51,9 +51,11 @@ namespace Stacks_and_Queues.classes
             catch (Exception)
             {
 
-                throw new Exception("this didnt work??");
+                throw new IndexOutOfRangeException("this didnt work??");
             }
         
         }
+
+        
     }
 }

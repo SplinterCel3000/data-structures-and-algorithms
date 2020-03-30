@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks and Queues", "Stacks and Queues\Stacks and Queues.csproj", "{15F2AB50-577D-4892-85CF-CFC05827B17A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks and Queues", "Stacks and Queues\Stacks and Queues.csproj", "{15F2AB50-577D-4892-85CF-CFC05827B17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{C6A5996D-C80D-43C1-A91E-26D36E63E581}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{15F2AB50-577D-4892-85CF-CFC05827B17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15F2AB50-577D-4892-85CF-CFC05827B17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15F2AB50-577D-4892-85CF-CFC05827B17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A5996D-C80D-43C1-A91E-26D36E63E581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A5996D-C80D-43C1-A91E-26D36E63E581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A5996D-C80D-43C1-A91E-26D36E63E581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A5996D-C80D-43C1-A91E-26D36E63E581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

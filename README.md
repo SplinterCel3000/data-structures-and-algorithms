@@ -19,3 +19,5 @@
 ---
 ![Stacks and queues](https://github.com/SplinterCel3000/data-structures-and-algorithms/tree/master/data-structures/stacks-and-queues)
 ---
+![Animal Shelter](https://github.com/SplinterCel3000/data-structures-and-algorithms/tree/master/data-structures/animal-shelter/fifo-animal-shelter)
+---

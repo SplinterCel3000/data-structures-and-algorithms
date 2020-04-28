@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repeatword", "repeatword\repeatword.csproj", "{773B34A0-FAA7-4396-A588-59ED91C8805A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773B34A0-FAA7-4396-A588-59ED91C8805A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773B34A0-FAA7-4396-A588-59ED91C8805A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773B34A0-FAA7-4396-A588-59ED91C8805A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773B34A0-FAA7-4396-A588-59ED91C8805A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A29E22-3A18-4296-A55F-1596D14BFDCD}
+	EndGlobalSection
+EndGlobal

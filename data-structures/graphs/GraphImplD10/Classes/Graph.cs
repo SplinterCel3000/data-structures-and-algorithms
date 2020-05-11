@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GraphImplD10.Classes
 {
-    class Graph<T>
+    public class Graph<T>
     {
         public Dictionary<Vertex<T>, List<Edge<T>>> AdjacencyList { get; set; }
 
@@ -25,16 +25,19 @@ namespace GraphImplD10.Classes
         }
 
         // add edge
-        public void AddDirectedEdge(Vertex<T> a, Vertex<T> b, int weight)
+        public Edge<T> AddDirectedEdge(Vertex<T> a, Vertex<T> b, int weight)
         {
-            AdjacencyList[a].Add(
-                new Edge<T>
-                {
-                    Vertex = b,
-                    Weight = weight
-                   
-                }
-                );
+            Edge<T> edge = new Edge<T>
+
+
+            {
+                Vertex = b,
+                Weight = weight
+
+            };
+            AdjacencyList[a].Add(edge);
+            return edge;
+
         }
         /// <summary>
         /// Adds undirected edge
@@ -60,6 +63,9 @@ namespace GraphImplD10.Classes
                 vertices.Add(vertex.Key);
             }
 
+            if (vertices.Count == 0)
+                return null;
+            else
             return vertices;
         }
 

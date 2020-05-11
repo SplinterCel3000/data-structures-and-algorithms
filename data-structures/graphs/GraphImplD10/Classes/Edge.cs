@@ -7,7 +7,7 @@ namespace GraphImplD10.Classes
 /// set up for edge class
 /// </summary>
 /// <typeparam name="T"></typeparam>
-    class Edge<T>
+    public class Edge<T>
     {
         public int Weight { get; set; }
         public Vertex<T> Vertex { get; set; }

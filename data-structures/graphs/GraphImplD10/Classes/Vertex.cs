@@ -9,7 +9,7 @@ namespace GraphImplD10.Classes
     /// This is our set up for vertexes
     /// </summary>
     /// <typeparam name="Potato"></typeparam>
-    class Vertex<Potato>
+   public class Vertex<Potato>
     {
         public Potato Value { get; set; }
 
